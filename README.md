@@ -20,9 +20,9 @@ I'm a Computer Science graduate with a strong interest in frontend development. 
 
 ### 📫 Contact
 
-- **LinkedIn:** (https://www.linkedin.com/in/eli-harel-a5254749/))
-- **Email:** eliharel3@gmail.com
-- **Portfolio:** (https://eliharel.vercel.app/)
+- [**LinkedIn:**](https://www.linkedin.com/in/eli-harel-a5254749/)
+- [**Email:**](eliharel3@gmail.com)
+- [**Portfolio:**](https://eliharel.vercel.app/)
 
 ---
 
