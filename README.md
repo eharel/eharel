@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Eli Harel 👋</h1>
 
-<!--
-**eharel/eharel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  CS Graduate • React Developer • Passionate about clean code and elegant UI
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+I'm a Computer Science graduate with a strong interest in frontend development. I enjoy building responsive, accessible, and user-friendly web applications using modern technologies.
+
+---
+
+### 🛠️ Skills
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,mongodb,java,cs)](https://skillicons.dev)
+
+---
+
+### 📫 Contact
+
+- **LinkedIn:** (https://www.linkedin.com/in/eli-harel-a5254749/))
+- **Email:** eliharel3@gmail.com
+- **Portfolio:** (https://eliharel.vercel.app/)
+
+---
+
+### 📌 Pinned Projects
+
+Check out some of my work below ⬇️
