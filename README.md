@@ -19,7 +19,7 @@ I'm a CS graduate with a passion for frontend development, now based in the U.S.
 
 ### 📫 Contact
 
-- 📧 [elihare3@gmail.com](mailto:elihare3@gmail.com)
+- [**Mail**](mailto:eliharel3@gmail.com)
 - [**LinkedIn**](https://www.linkedin.com/in/eli-harel-a5254749/)
 - [**Portfolio**](https://eliharel.vercel.app/)
 
@@ -27,4 +27,4 @@ I'm a CS graduate with a passion for frontend development, now based in the U.S.
 
 ### 📌 Pinned Projects
 
-Check out some of my projects below, or visit my [**Portfolio**](https://eliharel.vercel.app/#/projects) to see more!
+Check out some of my projects below, or visit my [**Portfolio**](https://eliharel.vercel.app/projects) to see more!
